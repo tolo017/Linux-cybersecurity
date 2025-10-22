@@ -1,6 +1,6 @@
 """
 FORENSIC SCANNER - Cybersecurity File System Investigator
-Author: [Tolo Otieno]
+Author: Tolo Otieno
 Description: Advanced file system scanner for incident response and threat hunting.
 """
 
