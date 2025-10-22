@@ -60,12 +60,12 @@ python log_analyzer.py
 
 ## 🚀 Getting Started
 **1. Clone the repository**
-git clone https://github.com/tolo017/Linux-cybersecurity.git
-cd Linux-cybersecurity/scripts
+- git clone https://github.com/tolo017/Linux-cybersecurity.git
+- cd Linux-cybersecurity/scripts
 
 **2. Run the tools**
-python forensic_scanner.py
-python log_analyzer.py
+- python forensic_scanner.py
+- python log_analyzer.py
 
 ## 🔮 Future Enhancements
 - Network packet analysis integration
